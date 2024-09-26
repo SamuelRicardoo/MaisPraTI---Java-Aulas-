@@ -90,7 +90,6 @@ public class Main {
                     System.out.println("Escolha inválida. Tente novamente.");
             }
         }
-
         sc.close();
     }
 }
