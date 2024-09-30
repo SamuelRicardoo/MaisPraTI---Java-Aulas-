@@ -5,7 +5,6 @@ public class Main {
 
         QueueJob queueJob = new QueueJob();
         Scanner sc = new Scanner(System.in);
-
         boolean run = true;
 
         while (run) {
@@ -15,7 +14,6 @@ public class Main {
             System.out.println("3. Mostrar trabalhos na fila");
             System.out.println("4. Sair");
             System.out.print("Escolha uma opção: ");
-
 
             int choice = sc.nextInt();
 

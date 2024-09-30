@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Atividade 8.iml" filepath="$PROJECT_DIR$/Atividade 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade_1/Atividade_1.iml" filepath="$PROJECT_DIR$/Atividade_1/Atividade_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade_2/Atividade_2.iml" filepath="$PROJECT_DIR$/Atividade_2/Atividade_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade_3/Atividade_3.iml" filepath="$PROJECT_DIR$/Atividade_3/Atividade_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade_4/Atividade_4.iml" filepath="$PROJECT_DIR$/Atividade_4/Atividade_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade_5/Atividade_5.iml" filepath="$PROJECT_DIR$/Atividade_5/Atividade_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade_6/Atividade_6.iml" filepath="$PROJECT_DIR$/Atividade_6/Atividade_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade_7/Atividade_7.iml" filepath="$PROJECT_DIR$/Atividade_7/Atividade_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade_8/Atividade_8.iml" filepath="$PROJECT_DIR$/Atividade_8/Atividade_8.iml" />
+    </modules>
+  </component>
+</project>
